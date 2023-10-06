@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TittleConvert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TittleConvert_jar</output-path>
+    <root id="archive" name="TittleConvert.jar">
+      <element id="module-output" name="TittleConvert" />
+    </root>
+  </artifact>
+</component>
